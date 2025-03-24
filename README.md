@@ -15,7 +15,8 @@ make global
 ## 解除したい場合
 
 `~/.gitconfig`の以下の箇所を削除して下さい
-~
+
+```
 [commit]
 	template = /Users/your_name/.gitmoji_commit_template
-~
+```
